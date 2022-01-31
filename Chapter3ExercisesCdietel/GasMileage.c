@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-    float miles,gallonUsed,milesPerGallonUsed,totalMilesPerGallonUsed,
+    float miles,gallonUsed,totalMilesPerGallonUsed,
             totalMiles,totalGallonUsed;
     printf("Enter gallon used\n");
     scanf("%f",&gallonUsed);

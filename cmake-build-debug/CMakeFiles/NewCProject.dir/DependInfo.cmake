@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/DELL/CLionProjects/NewCproject/Chapter6ExercisesCDietel/DuplicateElimination.c" "C:/Users/DELL/CLionProjects/NewCproject/cmake-build-debug/CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.obj"
+  "C:/Users/DELL/CLionProjects/NewCproject/Chapter6ExercisesCDietel/AirLineReservationSystem.c" "C:/Users/DELL/CLionProjects/NewCproject/cmake-build-debug/CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

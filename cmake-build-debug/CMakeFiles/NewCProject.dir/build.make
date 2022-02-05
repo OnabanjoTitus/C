@@ -75,27 +75,27 @@ include CMakeFiles/NewCProject.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/NewCProject.dir/flags.make
 
-CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.obj: CMakeFiles/NewCProject.dir/flags.make
-CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.obj: ../Chapter6ExercisesCDietel/DuplicateElimination.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\DELL\CLionProjects\NewCproject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\NewCProject.dir\Chapter6ExercisesCDietel\DuplicateElimination.c.obj -c C:\Users\DELL\CLionProjects\NewCproject\Chapter6ExercisesCDietel\DuplicateElimination.c
+CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj: CMakeFiles/NewCProject.dir/flags.make
+CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj: ../Chapter6ExercisesCDietel/AirLineReservationSystem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\DELL\CLionProjects\NewCproject\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\NewCProject.dir\Chapter6ExercisesCDietel\AirLineReservationSystem.c.obj -c C:\Users\DELL\CLionProjects\NewCproject\Chapter6ExercisesCDietel\AirLineReservationSystem.c
 
-CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\DELL\CLionProjects\NewCproject\Chapter6ExercisesCDietel\DuplicateElimination.c > CMakeFiles\NewCProject.dir\Chapter6ExercisesCDietel\DuplicateElimination.c.i
+CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\DELL\CLionProjects\NewCproject\Chapter6ExercisesCDietel\AirLineReservationSystem.c > CMakeFiles\NewCProject.dir\Chapter6ExercisesCDietel\AirLineReservationSystem.c.i
 
-CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\DELL\CLionProjects\NewCproject\Chapter6ExercisesCDietel\DuplicateElimination.c -o CMakeFiles\NewCProject.dir\Chapter6ExercisesCDietel\DuplicateElimination.c.s
+CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\DELL\CLionProjects\NewCproject\Chapter6ExercisesCDietel\AirLineReservationSystem.c -o CMakeFiles\NewCProject.dir\Chapter6ExercisesCDietel\AirLineReservationSystem.c.s
 
 # Object files for target NewCProject
 NewCProject_OBJECTS = \
-"CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.obj"
+"CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj"
 
 # External object files for target NewCProject
 NewCProject_EXTERNAL_OBJECTS =
 
-NewCProject.exe: CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.obj
+NewCProject.exe: CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj
 NewCProject.exe: CMakeFiles/NewCProject.dir/build.make
 NewCProject.exe: CMakeFiles/NewCProject.dir/linklibs.rsp
 NewCProject.exe: CMakeFiles/NewCProject.dir/objects1.rsp

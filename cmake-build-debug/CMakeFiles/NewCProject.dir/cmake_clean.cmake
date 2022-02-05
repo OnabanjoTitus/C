@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.obj"
+  "CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj"
   "NewCProject.exe"
   "NewCProject.exe.manifest"
   "NewCProject.pdb"

@@ -39,7 +39,7 @@ int main(void ){
         scanf("%d",&grossSales);
 
     }
-    printf("The total sales commision for the employees are:\n");
+    printf("The total sales commission for the employees are:\n");
     printf("$200-299 ----%d\n",salesCommision[0]);
     printf("$300-399 ----%d\n",salesCommision[1]);
     printf("$400-499 ----%d\n",salesCommision[2]);

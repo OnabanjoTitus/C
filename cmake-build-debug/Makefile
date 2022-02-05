@@ -141,32 +141,32 @@ NewCProject/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewCProject.dir\build.make CMakeFiles/NewCProject.dir/build
 .PHONY : NewCProject/fast
 
-Chapter6ExercisesCDietel/DuplicateElimination.obj: Chapter6ExercisesCDietel/DuplicateElimination.c.obj
+Chapter6ExercisesCDietel/AirLineReservationSystem.obj: Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj
 
-.PHONY : Chapter6ExercisesCDietel/DuplicateElimination.obj
+.PHONY : Chapter6ExercisesCDietel/AirLineReservationSystem.obj
 
 # target to build an object file
-Chapter6ExercisesCDietel/DuplicateElimination.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewCProject.dir\build.make CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.obj
-.PHONY : Chapter6ExercisesCDietel/DuplicateElimination.c.obj
+Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewCProject.dir\build.make CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj
+.PHONY : Chapter6ExercisesCDietel/AirLineReservationSystem.c.obj
 
-Chapter6ExercisesCDietel/DuplicateElimination.i: Chapter6ExercisesCDietel/DuplicateElimination.c.i
+Chapter6ExercisesCDietel/AirLineReservationSystem.i: Chapter6ExercisesCDietel/AirLineReservationSystem.c.i
 
-.PHONY : Chapter6ExercisesCDietel/DuplicateElimination.i
+.PHONY : Chapter6ExercisesCDietel/AirLineReservationSystem.i
 
 # target to preprocess a source file
-Chapter6ExercisesCDietel/DuplicateElimination.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewCProject.dir\build.make CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.i
-.PHONY : Chapter6ExercisesCDietel/DuplicateElimination.c.i
+Chapter6ExercisesCDietel/AirLineReservationSystem.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewCProject.dir\build.make CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.i
+.PHONY : Chapter6ExercisesCDietel/AirLineReservationSystem.c.i
 
-Chapter6ExercisesCDietel/DuplicateElimination.s: Chapter6ExercisesCDietel/DuplicateElimination.c.s
+Chapter6ExercisesCDietel/AirLineReservationSystem.s: Chapter6ExercisesCDietel/AirLineReservationSystem.c.s
 
-.PHONY : Chapter6ExercisesCDietel/DuplicateElimination.s
+.PHONY : Chapter6ExercisesCDietel/AirLineReservationSystem.s
 
 # target to generate assembly for a file
-Chapter6ExercisesCDietel/DuplicateElimination.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewCProject.dir\build.make CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/DuplicateElimination.c.s
-.PHONY : Chapter6ExercisesCDietel/DuplicateElimination.c.s
+Chapter6ExercisesCDietel/AirLineReservationSystem.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\NewCProject.dir\build.make CMakeFiles/NewCProject.dir/Chapter6ExercisesCDietel/AirLineReservationSystem.c.s
+.PHONY : Chapter6ExercisesCDietel/AirLineReservationSystem.c.s
 
 # Help Target
 help:
@@ -177,9 +177,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... NewCProject
-	@echo ... Chapter6ExercisesCDietel/DuplicateElimination.obj
-	@echo ... Chapter6ExercisesCDietel/DuplicateElimination.i
-	@echo ... Chapter6ExercisesCDietel/DuplicateElimination.s
+	@echo ... Chapter6ExercisesCDietel/AirLineReservationSystem.obj
+	@echo ... Chapter6ExercisesCDietel/AirLineReservationSystem.i
+	@echo ... Chapter6ExercisesCDietel/AirLineReservationSystem.s
 .PHONY : help
 
 

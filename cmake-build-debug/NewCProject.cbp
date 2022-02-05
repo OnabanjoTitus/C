@@ -74,7 +74,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/DELL/CLionProjects/NewCproject/Chapter6ExercisesCDietel/DuplicateElimination.c">
+		<Unit filename="C:/Users/DELL/CLionProjects/NewCproject/Chapter6ExercisesCDietel/AirLineReservationSystem.c">
 			<Option target="NewCProject"/>
 		</Unit>
 		<Unit filename="C:/Users/DELL/CLionProjects/NewCproject/CMakeLists.txt">

@@ -18,9 +18,7 @@ int main(void){
                     break;
                 }
             }
-
         }
-
         if(seatSelected==2){
             if(seats[9]==2){
                 printf("All first class seats are filled up try economy class\n");
